@@ -1,1 +1,1 @@
-worker: java -Xms512M -Xmx1G -jar server.jar nogui
+web: bin/web.sh
